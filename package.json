@@ -1,0 +1,10 @@
+{
+  "name": "sbtv21",
+  "version": "21.0.0",
+  "description": "SBTV21",
+  "packageType": "app",
+  "appName": "SBTV21",
+  "appPath": "app/p21.html",
+  "serviceFile": "c21.js",
+  "keys": []
+}
